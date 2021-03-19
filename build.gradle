@@ -93,7 +93,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "Sweet Berry Pie",
+                "Specification-Title"     : "Apple Pie",
                 "Specification-Vendor"    : "ravenbuilder934",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
