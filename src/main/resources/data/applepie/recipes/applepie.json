@@ -1,26 +1,17 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern":
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
   [
-    "   ",
-    "XY ",
-    " Z "
-  ],
-  "key":
-  {
-    "X":
     {
       "item": "minecraft:apple"
     },
-    "Y":
     {
       "item": "minecraft:sugar"
     },
-    "Z":
     {
       "item": "minecraft:egg"
     }
-  },
+  ],
   "result":
   {
     "item": "applepie:applepie"
